@@ -1,0 +1,17 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #000000;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right bottom, rgb(3, 2, 0), rgb(4, 4, 4));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right bottom, #1589FF, #1589FF)
+  }
+
+  .mb-3{
+    background-color: #000000 !important;
+  }
+  .col-md-4 gradient-custom text-center text-white{
+    width: 300px !important;
+  }

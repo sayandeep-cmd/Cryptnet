@@ -1,0 +1,33 @@
+.carousel{
+    /* height: 50%; */
+    display: flex;
+    align-items:center;
+  }
+
+  .carouselItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #1589FF;
+    padding-top: 3%;
+    
+  }
+
+  .second-section{
+    background-color:#000000;
+    text-align: center;
+    padding:20px 50px;
+    height: 370px;
+  }
+  .round{
+    border-image-width:150;
+        height:150;
+        
+          border-Radius:70;
+  }
+
+  .tagline{
+    font-size:12px;
+  }

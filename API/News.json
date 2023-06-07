@@ -1,0 +1,40 @@
+{
+    "News": [
+        {
+            "Title": "Biden proposes 30% climate change tax on cryptocurrency mining",
+            "Desc": "The White House is trying to persuade Congress to pass a 30% tax on the electricity used in cryptocurrency mining in the next federal budget in order to minimize the nascent industry’s impact on climate change.",
+            "Img": "./Image/image1.jpg",
+            "Date": "Tue, May 2, 2023 at 5:30 PM"
+        },
+        {
+            "Title": "Market Wrap: Bitcoin Outperforms as Crypto Bulls Take a Breather",
+            "Desc": "Bitcoin (BTC) outperformed altcoins on Friday, suggesting that buyers are taking a breather ahead of the weekend. Analysts expect a brief pullback before another leg higher in crypto prices.",
+            "Img": "",
+            "Date": "Fri, 25 Mar 2022 20:28:43"
+        },
+        {
+            "Title": "Bitcoin City: El Salvador’s Dreams for Utopia on Hold",
+            "Desc": "Locals interviewed by CoinDesk have mixed feelings about El Salvador’s multimillion dollar proposal financed by “bitcoin bonds.",
+            "Img": "",
+            "Date": "Fri, 25 Mar 2022 19:43:17"
+        },
+        {
+            "Title": "History That We Can Trust",
+            "Desc": "Blockchain technology creates first record of events that can't be rewritten.",
+            "Img": "",
+            "Date": "Fri, 25 Mar 2022 18:35:06"
+        },
+        {
+            "Title": "CANADA FX DEBT-Canadian dollar pares weekly gain as Ukraine tensions soar",
+            "Desc": "Wall Street tumbled and safe-havens such as U.S. Treasuries and the U.S. dollar rallied after Washington said Russia has massed enough troops near Ukraine to launch a major invasion. The Canadian dollar was trading 0.2% lower at 1.2742 to the greenback, or 78.78 U.S. cents, after trading in a range of 1.2670 to 1.2754.",
+            "Img": "",
+            "Date": "Fri, 11 Feb 2022 20:26:04"
+        },
+        {
+            "Title": "The CEO of Uber said the ride-hailing app will 'absolutely' accept crypto at some point",
+            "Desc": "USD/CAD returned towards the 50 EMA level and is trying to gain additional downside momentum.",
+            "Img": "",
+            "Date": "Fri, 11 Feb 2022 17:18:10"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+  "bought": [
+    {
+      "name": "Bitcoin",
+      "price": "230000",
+      "boughtat": "460000",
+      "id": 1
+    },
+    {
+      "name": "USD Coin",
+      "price": "82.03",
+      "boughtat": 410.15,
+      "id": 2
+    },
+    {
+      "name": "Cardano",
+      "price": "30.37",
+      "boughtat": 273.33,
+      "id": 3
+    },
+    {
+      "name": "Dogecoin",
+      "price": "6.06",
+      "boughtat": 42.419999999999995,
+      "id": 11
+    },
+    {
+      "name": "Dogecoin",
+      "price": "6.06",
+      "boughtat": 12.12,
+      "id": 12
+    },
+    {
+      "name": "BNB",
+      "price": "25538",
+      "boughtat": 127690,
+      "id": 13
+    },
+    {
+      "name": "Tether",
+      "price": "82.3",
+      "boughtat": 658.4,
+      "id": 14
+    }
+  ]
+}

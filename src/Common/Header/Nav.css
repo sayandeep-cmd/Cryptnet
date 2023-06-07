@@ -1,0 +1,7 @@
+@import '../../main.scss';
+.mainnav{
+    background-color:black !important;
+}
+.nav-link{
+    color:#1589FF !important;
+}

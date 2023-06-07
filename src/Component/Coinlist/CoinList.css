@@ -1,0 +1,115 @@
+.crypto-container {
+    max-width: 800px !important;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .coins-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .coin-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .coin-logo img {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .coin-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .coin-info h2 {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  .coin-price {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+  }
+  
+  .pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #1589FF;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .pagination button.active {
+    background-color: black;
+  }
+
+  .crypto-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .coins-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  .coins-table th,
+  .coins-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #7a72958e;
+    color: #fff;
+  }
+  
+  .coins-table th {
+    background-color: #1589FF;
+  }
+  
+  .coins-table tbody tr:hover {
+    background-color: #c2ad10;
+  }
+  
+  .coins-table .positive {
+    color: green;
+  }
+  
+  .coins-table .negative {
+    color: red;
+  }
+  .coins-table .positive .negative{
+    padding-left: 45px;
+  }
+
+  .crypto-search {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    background-color: #1e1e1e;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }

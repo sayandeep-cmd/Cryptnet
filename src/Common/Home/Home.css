@@ -1,0 +1,52 @@
+
+.bannerPart{
+    position:relative;
+    height: 600 px !important;
+    width: 80% !important;
+}
+.button1{
+    position:absolute;
+    top: 85%;
+    left: 20%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: #1589FF;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;   
+}
+
+
+#banner1{
+    height: 600 px !important;
+    width: 80% !important;
+}
+
+hr{
+    color:#1589FF
+}
+
+.h1-type1,h5{
+    color:#1589FF;
+    margin-top: 5% !important;
+    text-align: center;
+    
+}
+.home-section{
+    /* padding-top: -25px; */
+    background-color:#1e1d1d;
+    text-align: center;
+    padding:20px 50px;
+    height: 510px;
+}
+.home-row{
+    padding-top: 3%;
+    display:flex;
+}
+
+p{
+    color:white;
+}
